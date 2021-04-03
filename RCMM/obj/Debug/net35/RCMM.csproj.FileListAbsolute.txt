@@ -1,4 +1,0 @@
-C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\obj\Debug\net35\RCMM.csprojAssemblyReference.cache
-C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\obj\Debug\net35\RCMM.AssemblyInfoInputs.cache
-C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\obj\Debug\net35\RCMM.AssemblyInfo.cs
-C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\obj\Debug\net35\RCMM.csproj.CoreCompileInputs.cache
