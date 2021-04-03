@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifiedUI.Helpers", "UnifiedUI.Helpers.csproj", "{967F9B4E-ED7D-4759-9021-289B61A934FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967F9B4E-ED7D-4759-9021-289B61A934FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967F9B4E-ED7D-4759-9021-289B61A934FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967F9B4E-ED7D-4759-9021-289B61A934FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967F9B4E-ED7D-4759-9021-289B61A934FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89966C4-2162-4B28-8538-105EBE24A82E}
+	EndGlobalSection
+EndGlobal

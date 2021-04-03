@@ -1,0 +1,17 @@
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\UnifiedUI.Helpers.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\UnifiedUI.Helpers.pdb
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\ColossalManaged.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\ICities.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\UnityEngine.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\UnityEngine.UI.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\PopsApiWrapper.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\Assembly-CSharp-firstpass.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\bin\Debug\net35\ICSharpCode.SharpZipLib.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\obj\Debug\net35\UnifiedUI.Helpers.AssemblyInfoInputs.cache
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\obj\Debug\net35\UnifiedUI.Helpers.AssemblyInfo.cs
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\obj\Debug\net35\UnifiedUI.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\obj\Debug\net35\UnifiedUI.Helpers.csproj.CopyComplete
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\obj\Debug\net35\UnifiedUI.Helpers.dll
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\obj\Debug\net35\UnifiedUI.Helpers.pdb
+C:\Users\d_c_j\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\RCMM\UnifiedUI.Helpers\obj\Debug\net35\UnifiedUI.Helpers.csprojAssemblyReference.cache
